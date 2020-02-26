@@ -1,5 +1,5 @@
 # singtel
-Can you implement the sing() method for the bird? Done
+1. Can you implement the sing() method for the bird? Done
 
 a. How did you unit test it? Done
 b. How did you optimize the code for maintainability? Create separate class files instead of one file.
