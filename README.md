@@ -1,5 +1,5 @@
 # singtel
-In Rest folder
+Source code is in Rest folder
 1. Can you implement the sing() method for the bird? Done
 
     a. How did you unit test it? Done
