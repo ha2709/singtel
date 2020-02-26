@@ -1,5 +1,5 @@
 package com.example.demo.api;
 
-public class Animal {
+public abstract class Animal {
 
 }
